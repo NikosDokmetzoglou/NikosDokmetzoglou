@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome to my GitHub page!
+
+My name is Nikos Dokmetzoglou and I am a physics PhD candidate at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), studying symmetry properties of scalar and gauge theories and their scattering amplitudes.
+
+You can find more about me and my research by visiting my [personal website](https://tarheels.live/nikosdokmetzoglou/) 
+or my [ORCID](https://orcid.org/0000-0002-1520-8758) and [INSPIRE](https://inspirehep.net/authors/1808352) profiles.
+
+I will soon be uploading some Mathematica packages that I built while working on my latest research paper.
+
+
 
 <!--
 **NikosDokme/NikosDokme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
