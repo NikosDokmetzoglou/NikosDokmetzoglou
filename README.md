@@ -1,8 +1,12 @@
 ### Welcome to my GitHub page!
+
+My name is Nikos Dokmetzoglou and I am a postdoctoral researcher at the Institute of Nuclear and Particle Physics of the [National Centre of Scientific Research "Demokritos"](http://www.inp.demokritos.gr/). 
+
 <!--
-My name is Nikos Dokmetzoglou and I am a physics PhD candidate at the [University of North Carolina at Chapel Hill](https://www.unc.edu/), studying symmetry properties of scalar and gauge field theories and their scattering amplitudes.
+I am interested in the symmetry properties of scalar and gauge field theories and their scattering amplitudes.
 
 I will soon be uploading some Mathematica packages that I built while working on my [latest research paper](https://arxiv.org/abs/2207.14806).
+
 -->
 
 You can find more about me and my research by visiting my [personal website](https://nikosdokmetzoglou.github.io/) 
