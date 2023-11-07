@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 
-My name is Nikos Dokmetzoglou and I am a postdoctoral researcher at the Institute of Nuclear and Particle Physics of the [National Centre of Scientific Research "Demokritos"](http://www.inp.demokritos.gr/). 
+My name is Nikos Dokmetzoglou and I am a postdoctoral researcher at the Institute of Nuclear and Particle Physics of the [National Centre for Scientific Research "Demokritos"](http://www.inp.demokritos.gr/). 
 
 <!--
 I am interested in the symmetry properties of scalar and gauge field theories and their scattering amplitudes.
